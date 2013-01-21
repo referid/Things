@@ -1,7 +1,0 @@
-{
-'name' : user_name,
-'email' : user_email,
-'password' : user_password,
-'created_on' : time.time(),
-'is_public' : true,
-}
